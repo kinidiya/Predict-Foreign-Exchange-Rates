@@ -1,8 +1,8 @@
 # Predicting Foreign Exchange Rates
-Within this project, my hope is to be able to predict EUR/USD exchange rates for the forseeable furture with the use of LSTMs, DNNs, and NLP. I will begin by simply using time series analysis to understand the seasonality of the exchange rate. After, I will adjust rate predictions through correlations of text sentiments found in old political articles to significant rate changes in the past. 
+Within this project, the goal is to predict EUR/USD exchange rates for the forseeable furture with the use of LSTMs, DNNs, and NLP. Using time series analysis, the code will understand the seasonality of the exchange rate. After, the program will adjust rate predictions through correlations of text sentiments found in old political articles to significant rate changes in the past. 
 
 ## Data Collection 
-
+Data for EUR/USD csv was collected with Yahoo Finance. Additional information on political articles were collected with Google Scholar. 
 
 ## Tracking Seasonality and Patterns 
 
